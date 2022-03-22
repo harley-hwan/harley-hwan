@@ -1,9 +1,3 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
-
 My name is Janghwan Kim. (My English name is Harley)
 
 - Developer & Researcher of GOLFZON (Sensor development)
