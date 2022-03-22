@@ -25,9 +25,8 @@ UK, Porland, France, Italy, Germany, Austria, Iceland, Philippine, China and mor
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harley-hwan&show_icons=true&theme=dracula)](https://github.com/harley-hwan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-hwan&layout=compact)](https://github.com/harley-hwan)
-
+![harley-hwan's github stats](https://github-readme-stats.vercel.app/api?username=harley-hwan&show_icons=true&theme=dracula)
+[![harley-hwan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-hwan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/harley-hwan)
 
 <!--
 **harley-hwan/harley-hwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
