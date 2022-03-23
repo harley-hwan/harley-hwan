@@ -1,3 +1,11 @@
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <a href="https://harley-hwan.github.io/">Website</a> •
+  <a href="https://www.instagram.com/harley__hwan/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/harley-hwan/">Linkedin</a>
+</p>
+
 My name is Janghwan Kim. (My English name is Harley)
 
 - Developer & Researcher of GOLFZON (Sensor development)
@@ -8,37 +16,25 @@ My name is Janghwan Kim. (My English name is Harley)
 
 What else do you need? Ask me whatever...
 
-### My story
+* 💼 Currently working at [GOLFZON](https://www.golfzon.com) <br/>
+* 🔖 Discover my [Curriculum Vitae](https://harley-hwan.github.io/)<br/>
+* ✍🏻 I wrote dev articles on [dev.to](https://harley-hwan.github.io/) <br/>
+* 📫 Contact me [@harley__hwan](https://www.instagram.com/harley__hwan/)
 
-I am working in GOLFZON as developer & researcher
 
-I am responsible for sensor development.
 
-I majored in Computer Science at Pusan National University
+## My skills
 
-I was a Taekwondo Athlete, but I can't do it anymore because of a big injury called a cruciate ligament rupture.
+<p align="center">
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
 
-I studied English in the UK and the Philippines for a total of a year.
-
-### Countries I've visited / traveled
+## Countries I've visited / traveled
 UK, Porland, France, Italy, Germany, Austria, Iceland, Philippine, China and more in the future ...
 
+
+
+<br/>
 <br/>
 
-![harley-hwan's github stats](https://github-readme-stats.vercel.app/api?username=harley-hwan&show_icons=true&theme=dracula)
-[![harley-hwan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-hwan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/harley-hwan)
-
-<!--
-**harley-hwan/harley-hwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch)
