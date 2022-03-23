@@ -25,10 +25,8 @@ What else do you need? Ask me whatever...
 
 ## My skills
 
-![image](https://user-images.githubusercontent.com/68185569/159622762-b6396eee-e871-4cab-9d05-347e3d396fc9.png)
-
 <p align="center">
-    <img align="center" alt="Skills" src="https://github.com/harley-hwan/harley-hwan/blob/master/img/mySkills.png" />
+    <img align="center" alt="Skills" src="https://github.com/harley-hwan/harley-hwan/img/mySkills.png" />
 </p>
 
 ## Countries I've visited / traveled
