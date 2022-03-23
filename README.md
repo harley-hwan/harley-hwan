@@ -29,6 +29,9 @@ What else do you need? Ask me whatever...
     <img align="center" alt="Skills" src="img/mySkills.PNG" />
 </p>
 
+![image](https://user-images.githubusercontent.com/68185569/159624121-f684f448-4f7e-452c-911c-de836f3a151f.png)
+
+
 ## Countries I've visited / traveled
 UK, Porland, France, Italy, Germany, Austria, Iceland, Philippine, China and more in the future ...
 
