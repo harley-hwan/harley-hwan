@@ -26,7 +26,7 @@ What else do you need? Ask me whatever...
 ## My skills
 
 <p align="center">
-    <img align="center" alt="Skills" src="https://github.com/harley-hwan/harley-hwan/blob/main/img/mySkills.png" />
+    <img align="center" alt="Skills" src="img/mySkills.PNG" />
 </p>
 
 ## Countries I've visited / traveled
