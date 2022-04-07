@@ -12,7 +12,7 @@ My name is Janghwan Kim. (My English name is Harley)
 - Computer Science
 - Busan National University (Graduated)
 - SSAFY (Samsung Software Academy For Youth) 7th
-- language: C++ / C / C# / Python / Java
+- language: C++ / C# / Python / Java
 
 What else do you need? Ask me whatever...
 
