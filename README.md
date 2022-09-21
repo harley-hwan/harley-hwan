@@ -8,7 +8,7 @@
 
 My name is Janghwan Kim. (My English name is Harley)
 
-- Developer & Researcher of GOLFZON (Sensor development)
+- R&D in GOLFZON (Sensor development)
 - Computer Science
 - Busan National University (Graduated)
 - SSAFY (Samsung Software Academy For Youth) 7th
