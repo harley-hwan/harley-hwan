@@ -16,7 +16,6 @@ My name is Janghwan Kim. (My English name is Harley)
 
 What else do you need? Ask me whatever...
 
-* 💼 Currently working at [GOLFZON](https://www.golfzongolf.com/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://harley-hwan.github.io/) <br/>
 * ✍🏻 I wrote dev articles on [dev.to](https://harley-hwan.github.io/) <br/>
 * 📫 Contact me [@harley__hwan](https://www.instagram.com/harley__hwan/)
